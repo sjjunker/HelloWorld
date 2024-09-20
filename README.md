@@ -8,9 +8,9 @@ It's purpose is to show that I can create a basic application.
 
 # Development Environment
 
-IDE: Xcode
+IDE: Xcode,
 Language: Swift
 
 # Useful Websites
 
-* [Web Site Name](https://www.programiz.com/swift-programming/hello-world)
+* [Programiz](https://www.programiz.com/swift-programming/hello-world)
